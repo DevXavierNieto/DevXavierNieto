@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Xavier Nieto and I'm a developer full stack  from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Xavier Nieto and I'm a full stack developer from Mexico</h2>
 
 ###
 
