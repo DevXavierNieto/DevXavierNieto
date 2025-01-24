@@ -34,13 +34,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/francisco-xavier-nieto-orozco-0aa4042a8/">
+  <a href="https://www.linkedin.com/in/francisco-xavier-nieto-orozco-0aa4042a8/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/devxavi/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.instagram.com/devxavi/" target="_blank">
+  <img src="https://img.shields.io/static/v1?1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-thebadge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:dev.xavier.nieto@gmail.com">
+  <a href="mailto:dev.xavier.nieto@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
