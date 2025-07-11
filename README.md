@@ -1,19 +1,19 @@
 <h1 align="center">✨ Xavier Nieto | Full Stack Developer</h1>
 
-<p align="center">🇲🇽 Desarrollador web full stack desde México, construyendo soluciones reales con código claro, eficiente y humano.</p>
+<p align="center">🇲🇽 Desarrollador web full stack desde México, creando soluciones funcionales, limpias y con impacto real.</p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- 🔧 Desarrollador full stack con enfoque en sistemas POS, plataformas psicológicas, y herramientas de productividad.
-- 🚀 Apasionado por automatizar procesos, mejorar experiencias y crear proyectos que realmente aporten valor.
-- 🧠 Siempre aprendiendo y experimentando con nuevas tecnologías, lenguajes y paradigmas.
-- 🛡️ Fundador de **Devaryx**, marca de desarrollo para negocios que necesitan tecnología a la medida.
+- 💻 Desarrollador con experiencia en frontend, backend y bases de datos.
+- 🧠 Me apasiona aprender, optimizar procesos y transformar ideas en sistemas funcionales.
+- 🛠️ He trabajado con POS, plataformas psicológicas, automatización de tareas, entre otros.
+- 🎯 Enfocado en proyectos con propósito y bien estructurados.
 
 ---
 
-### 🧰 Tecnologías que uso con frecuencia
+### 🧰 Tecnologías que uso frecuentemente
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
@@ -33,6 +33,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+</div>
+
+---
+
+### 📊 Mis estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevXavierNieto&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXavierNieto&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" />
 </div>
 
 ---
@@ -62,4 +71,3 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/192259212?v=4" height="120" />
 </p>
-
