@@ -59,7 +59,7 @@
 
 <h2 align="center">📊 Mis Estadísticas</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevXavierNieto&show_icons=true&locale=es&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevXavierNieto&show_icons=true&locale=es&theme=dark&include_all_commits=true&count_private=true&cache_seconds=3600"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXavierNieto&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
@@ -82,4 +82,5 @@
     <img src="https://img.shields.io/badge/Mi_Portafolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
+
 
