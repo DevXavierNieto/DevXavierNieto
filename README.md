@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU-USUARIO-DE-GITHUB]&label=Visitantes+del+Perfil&color=0e75b6&style=flat-square" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=DevXavierNieto&label=Visitantes+del+Perfil&color=0e75b6&style=flat-square" alt="contador de visitas" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 
 <h2 align="center">📊 Mis Estadísticas</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-DE-GITHUB]&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevXavierNieto&show_icons=true&locale=es&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXavierNieto&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://github.com/[TU-USUARIO-DE-GITHUB]" target="_blank">
+  <a href="https://github.com/DevXavierNieto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
