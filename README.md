@@ -17,9 +17,6 @@
 <p align="left">
   Me especializo en crear <strong>aplicaciones web</strong> y sitios a medida para cualquier tipo de negocio. Tengo una base sólida en las tecnologías fundamentales de la web (HTML, CSS, JS) y una fuerte versatilidad en el lado del servidor, manejando lenguajes como <strong>C#, Java y PHP</strong>.
 </p>
-<p align="left">
-  Actualmente estoy enfocado en construir un portafolio robusto que demuestre mis habilidades. ¡Estoy abierto a colaboraciones para crear aplicaciones funcionales que resuelvan problemas reales!
-</p>
 
 <ul>
   <li>🚀 <strong>Misión:</strong> Entregar código limpio, funcional y escalable.</li>
@@ -78,6 +75,7 @@
     <img src="https://img.shields.io/badge/Mi_Portafolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
+
 
 
 
