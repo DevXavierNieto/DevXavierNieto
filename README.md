@@ -70,7 +70,7 @@
   ¡Estoy listo para construir! Contáctame si tienes una idea o proyecto en mente.
   <br/><br/>
   
-  <a href="https://linkedin.com/in/[TU-LINK-A-LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/franciscoxnieto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
@@ -82,3 +82,4 @@
     <img src="https://img.shields.io/badge/Mi_Portafolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
+
