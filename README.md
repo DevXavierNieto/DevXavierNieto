@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
-  <a href="portafolioxaviernieto.netlify.app" target="_blank">
+  <a href="https://portafolioxaviernieto.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portafolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
